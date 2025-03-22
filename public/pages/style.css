@@ -229,3 +229,7 @@ footer .social a {
     color: #ffffffad;
     font-size: 13px;
 }
+
+footer .social a:hover {
+    color: whitesmoke;
+}
