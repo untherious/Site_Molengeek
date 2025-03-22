@@ -224,3 +224,8 @@ footer .social a i {
     margin-right: 10px; 
 }
 
+footer .social a {
+    text-decoration: none; 
+    color: #ffffffad;
+    font-size: 13px;
+}
