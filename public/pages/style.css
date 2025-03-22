@@ -207,7 +207,8 @@ input {
 footer {
     background-color: #000000c9; 
     color: whitesmoke;
-    padding: 20px 20px;
+    padding-top: 30px ;
+    padding-bottom: 15px;
     text-align: center;
 }
 
@@ -239,4 +240,9 @@ footer hr {
     border: none;
     border-top: 1px solid #5b5957d3;
     padding-bottom: 20px; 
+}
+
+footer .copyright {
+    font-size: 14px;
+    color: #989a93;
 }
