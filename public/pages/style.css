@@ -180,7 +180,6 @@ input {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     width: 80%;
     margin: auto;
     padding: 20px;
@@ -195,3 +194,5 @@ input {
     width: 100%; 
     text-align: left; 
 }
+
+
